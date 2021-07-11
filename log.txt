@@ -1,0 +1,1477 @@
+CONST_ID 300
+The value is:300
+CONST_ID 300
+The value is:300
+CONST_ID 0
+The value is:0
+CONST_ID 255
+The value is:255
+CONST_ID 255
+The value is:255
+CONST_ID 0
+The value is:0
+CONST_ID 100
+The value is:100
+CONST_ID 1
+The value is:1
+T 000D26C0
+The value is:0
+T 000D26C0
+The value is:0
+Point logic:0,0
+Point after rot:0,0
+Point real:300,300
+Point logic:1,1
+Point after rot:1,1
+Point real:301,299
+Point logic:2,2
+Point after rot:2,2
+Point real:302,298
+Point logic:3,3
+Point after rot:3,3
+Point real:303,297
+Point logic:4,4
+Point after rot:4,4
+Point real:304,296
+Point logic:5,5
+Point after rot:5,5
+Point real:305,295
+Point logic:6,6
+Point after rot:6,6
+Point real:306,294
+Point logic:7,7
+Point after rot:7,7
+Point real:307,293
+Point logic:8,8
+Point after rot:8,8
+Point real:308,292
+Point logic:9,9
+Point after rot:9,9
+Point real:309,291
+Point logic:10,10
+Point after rot:10,10
+Point real:310,290
+Point logic:11,11
+Point after rot:11,11
+Point real:311,289
+Point logic:12,12
+Point after rot:12,12
+Point real:312,288
+Point logic:13,13
+Point after rot:13,13
+Point real:313,287
+Point logic:14,14
+Point after rot:14,14
+Point real:314,286
+Point logic:15,15
+Point after rot:15,15
+Point real:315,285
+Point logic:16,16
+Point after rot:16,16
+Point real:316,284
+Point logic:17,17
+Point after rot:17,17
+Point real:317,283
+Point logic:18,18
+Point after rot:18,18
+Point real:318,282
+Point logic:19,19
+Point after rot:19,19
+Point real:319,281
+Point logic:20,20
+Point after rot:20,20
+Point real:320,280
+Point logic:21,21
+Point after rot:21,21
+Point real:321,279
+Point logic:22,22
+Point after rot:22,22
+Point real:322,278
+Point logic:23,23
+Point after rot:23,23
+Point real:323,277
+Point logic:24,24
+Point after rot:24,24
+Point real:324,276
+Point logic:25,25
+Point after rot:25,25
+Point real:325,275
+Point logic:26,26
+Point after rot:26,26
+Point real:326,274
+Point logic:27,27
+Point after rot:27,27
+Point real:327,273
+Point logic:28,28
+Point after rot:28,28
+Point real:328,272
+Point logic:29,29
+Point after rot:29,29
+Point real:329,271
+Point logic:30,30
+Point after rot:30,30
+Point real:330,270
+Point logic:31,31
+Point after rot:31,31
+Point real:331,269
+Point logic:32,32
+Point after rot:32,32
+Point real:332,268
+Point logic:33,33
+Point after rot:33,33
+Point real:333,267
+Point logic:34,34
+Point after rot:34,34
+Point real:334,266
+Point logic:35,35
+Point after rot:35,35
+Point real:335,265
+Point logic:36,36
+Point after rot:36,36
+Point real:336,264
+Point logic:37,37
+Point after rot:37,37
+Point real:337,263
+Point logic:38,38
+Point after rot:38,38
+Point real:338,262
+Point logic:39,39
+Point after rot:39,39
+Point real:339,261
+Point logic:40,40
+Point after rot:40,40
+Point real:340,260
+Point logic:41,41
+Point after rot:41,41
+Point real:341,259
+Point logic:42,42
+Point after rot:42,42
+Point real:342,258
+Point logic:43,43
+Point after rot:43,43
+Point real:343,257
+Point logic:44,44
+Point after rot:44,44
+Point real:344,256
+Point logic:45,45
+Point after rot:45,45
+Point real:345,255
+Point logic:46,46
+Point after rot:46,46
+Point real:346,254
+Point logic:47,47
+Point after rot:47,47
+Point real:347,253
+Point logic:48,48
+Point after rot:48,48
+Point real:348,252
+Point logic:49,49
+Point after rot:49,49
+Point real:349,251
+Point logic:50,50
+Point after rot:50,50
+Point real:350,250
+Point logic:51,51
+Point after rot:51,51
+Point real:351,249
+Point logic:52,52
+Point after rot:52,52
+Point real:352,248
+Point logic:53,53
+Point after rot:53,53
+Point real:353,247
+Point logic:54,54
+Point after rot:54,54
+Point real:354,246
+Point logic:55,55
+Point after rot:55,55
+Point real:355,245
+Point logic:56,56
+Point after rot:56,56
+Point real:356,244
+Point logic:57,57
+Point after rot:57,57
+Point real:357,243
+Point logic:58,58
+Point after rot:58,58
+Point real:358,242
+Point logic:59,59
+Point after rot:59,59
+Point real:359,241
+Point logic:60,60
+Point after rot:60,60
+Point real:360,240
+Point logic:61,61
+Point after rot:61,61
+Point real:361,239
+Point logic:62,62
+Point after rot:62,62
+Point real:362,238
+Point logic:63,63
+Point after rot:63,63
+Point real:363,237
+Point logic:64,64
+Point after rot:64,64
+Point real:364,236
+Point logic:65,65
+Point after rot:65,65
+Point real:365,235
+Point logic:66,66
+Point after rot:66,66
+Point real:366,234
+Point logic:67,67
+Point after rot:67,67
+Point real:367,233
+Point logic:68,68
+Point after rot:68,68
+Point real:368,232
+Point logic:69,69
+Point after rot:69,69
+Point real:369,231
+Point logic:70,70
+Point after rot:70,70
+Point real:370,230
+Point logic:71,71
+Point after rot:71,71
+Point real:371,229
+Point logic:72,72
+Point after rot:72,72
+Point real:372,228
+Point logic:73,73
+Point after rot:73,73
+Point real:373,227
+Point logic:74,74
+Point after rot:74,74
+Point real:374,226
+Point logic:75,75
+Point after rot:75,75
+Point real:375,225
+Point logic:76,76
+Point after rot:76,76
+Point real:376,224
+Point logic:77,77
+Point after rot:77,77
+Point real:377,223
+Point logic:78,78
+Point after rot:78,78
+Point real:378,222
+Point logic:79,79
+Point after rot:79,79
+Point real:379,221
+Point logic:80,80
+Point after rot:80,80
+Point real:380,220
+Point logic:81,81
+Point after rot:81,81
+Point real:381,219
+Point logic:82,82
+Point after rot:82,82
+Point real:382,218
+Point logic:83,83
+Point after rot:83,83
+Point real:383,217
+Point logic:84,84
+Point after rot:84,84
+Point real:384,216
+Point logic:85,85
+Point after rot:85,85
+Point real:385,215
+Point logic:86,86
+Point after rot:86,86
+Point real:386,214
+Point logic:87,87
+Point after rot:87,87
+Point real:387,213
+Point logic:88,88
+Point after rot:88,88
+Point real:388,212
+Point logic:89,89
+Point after rot:89,89
+Point real:389,211
+Point logic:90,90
+Point after rot:90,90
+Point real:390,210
+Point logic:91,91
+Point after rot:91,91
+Point real:391,209
+Point logic:92,92
+Point after rot:92,92
+Point real:392,208
+Point logic:93,93
+Point after rot:93,93
+Point real:393,207
+Point logic:94,94
+Point after rot:94,94
+Point real:394,206
+Point logic:95,95
+Point after rot:95,95
+Point real:395,205
+Point logic:96,96
+Point after rot:96,96
+Point real:396,204
+Point logic:97,97
+Point after rot:97,97
+Point real:397,203
+Point logic:98,98
+Point after rot:98,98
+Point real:398,202
+Point logic:99,99
+Point after rot:99,99
+Point real:399,201
+/
+  CONST_ID 3.14159
+  CONST_ID 2
+The value is:1.5708
+CONST_ID 0
+The value is:0
+CONST_ID 100
+The value is:100
+CONST_ID 1
+The value is:1
+T 000D26C0
+The value is:99
+T 000D26C0
+The value is:99
+Point logic:0,0
+Point after rot:0,0
+Point real:300,300
+Point logic:1,1
+Point after rot:1,1
+Point real:298,299
+Point logic:2,2
+Point after rot:2,2
+Point real:297,298
+Point logic:3,3
+Point after rot:3,3
+Point real:296,297
+Point logic:4,4
+Point after rot:4,4
+Point real:295,296
+Point logic:5,5
+Point after rot:5,5
+Point real:294,295
+Point logic:6,6
+Point after rot:6,6
+Point real:293,294
+Point logic:7,7
+Point after rot:7,7
+Point real:292,293
+Point logic:8,8
+Point after rot:8,8
+Point real:291,292
+Point logic:9,9
+Point after rot:9,9
+Point real:290,291
+Point logic:10,10
+Point after rot:10,10
+Point real:289,290
+Point logic:11,11
+Point after rot:11,11
+Point real:288,289
+Point logic:12,12
+Point after rot:12,12
+Point real:287,288
+Point logic:13,13
+Point after rot:13,13
+Point real:286,287
+Point logic:14,14
+Point after rot:14,14
+Point real:285,286
+Point logic:15,15
+Point after rot:15,15
+Point real:284,285
+Point logic:16,16
+Point after rot:16,16
+Point real:283,284
+Point logic:17,17
+Point after rot:17,17
+Point real:282,283
+Point logic:18,18
+Point after rot:18,18
+Point real:281,282
+Point logic:19,19
+Point after rot:19,19
+Point real:280,281
+Point logic:20,20
+Point after rot:20,20
+Point real:279,280
+Point logic:21,21
+Point after rot:21,21
+Point real:278,279
+Point logic:22,22
+Point after rot:22,22
+Point real:277,278
+Point logic:23,23
+Point after rot:23,23
+Point real:276,277
+Point logic:24,24
+Point after rot:24,24
+Point real:275,276
+Point logic:25,25
+Point after rot:25,25
+Point real:274,275
+Point logic:26,26
+Point after rot:26,26
+Point real:273,274
+Point logic:27,27
+Point after rot:27,27
+Point real:272,273
+Point logic:28,28
+Point after rot:28,28
+Point real:271,272
+Point logic:29,29
+Point after rot:29,29
+Point real:270,271
+Point logic:30,30
+Point after rot:30,30
+Point real:269,270
+Point logic:31,31
+Point after rot:31,31
+Point real:268,269
+Point logic:32,32
+Point after rot:32,32
+Point real:267,268
+Point logic:33,33
+Point after rot:33,33
+Point real:266,267
+Point logic:34,34
+Point after rot:34,34
+Point real:265,266
+Point logic:35,35
+Point after rot:35,35
+Point real:264,265
+Point logic:36,36
+Point after rot:36,36
+Point real:263,264
+Point logic:37,37
+Point after rot:37,37
+Point real:262,263
+Point logic:38,38
+Point after rot:38,38
+Point real:261,262
+Point logic:39,39
+Point after rot:39,39
+Point real:260,261
+Point logic:40,40
+Point after rot:40,40
+Point real:259,260
+Point logic:41,41
+Point after rot:41,41
+Point real:258,259
+Point logic:42,42
+Point after rot:42,42
+Point real:257,258
+Point logic:43,43
+Point after rot:43,43
+Point real:256,257
+Point logic:44,44
+Point after rot:44,44
+Point real:255,256
+Point logic:45,45
+Point after rot:45,45
+Point real:254,255
+Point logic:46,46
+Point after rot:46,46
+Point real:253,254
+Point logic:47,47
+Point after rot:47,47
+Point real:252,253
+Point logic:48,48
+Point after rot:48,48
+Point real:251,252
+Point logic:49,49
+Point after rot:49,49
+Point real:250,251
+Point logic:50,50
+Point after rot:50,50
+Point real:249,250
+Point logic:51,51
+Point after rot:51,51
+Point real:248,249
+Point logic:52,52
+Point after rot:52,52
+Point real:247,248
+Point logic:53,53
+Point after rot:53,53
+Point real:246,247
+Point logic:54,54
+Point after rot:54,54
+Point real:245,246
+Point logic:55,55
+Point after rot:55,55
+Point real:244,245
+Point logic:56,56
+Point after rot:56,56
+Point real:243,244
+Point logic:57,57
+Point after rot:57,57
+Point real:242,243
+Point logic:58,58
+Point after rot:58,58
+Point real:241,242
+Point logic:59,59
+Point after rot:59,59
+Point real:240,241
+Point logic:60,60
+Point after rot:60,60
+Point real:239,240
+Point logic:61,61
+Point after rot:61,61
+Point real:238,239
+Point logic:62,62
+Point after rot:62,62
+Point real:237,238
+Point logic:63,63
+Point after rot:63,63
+Point real:236,237
+Point logic:64,64
+Point after rot:64,64
+Point real:235,236
+Point logic:65,65
+Point after rot:65,65
+Point real:234,235
+Point logic:66,66
+Point after rot:66,66
+Point real:233,234
+Point logic:67,67
+Point after rot:67,67
+Point real:232,233
+Point logic:68,68
+Point after rot:68,68
+Point real:231,232
+Point logic:69,69
+Point after rot:69,69
+Point real:230,231
+Point logic:70,70
+Point after rot:70,70
+Point real:229,230
+Point logic:71,71
+Point after rot:71,71
+Point real:228,229
+Point logic:72,72
+Point after rot:72,72
+Point real:227,228
+Point logic:73,73
+Point after rot:73,73
+Point real:226,227
+Point logic:74,74
+Point after rot:74,74
+Point real:225,226
+Point logic:75,75
+Point after rot:75,75
+Point real:224,225
+Point logic:76,76
+Point after rot:76,76
+Point real:223,224
+Point logic:77,77
+Point after rot:77,77
+Point real:222,223
+Point logic:78,78
+Point after rot:78,78
+Point real:221,222
+Point logic:79,79
+Point after rot:79,79
+Point real:220,221
+Point logic:80,80
+Point after rot:80,80
+Point real:219,220
+Point logic:81,81
+Point after rot:81,81
+Point real:218,219
+Point logic:82,82
+Point after rot:82,82
+Point real:217,218
+Point logic:83,83
+Point after rot:83,83
+Point real:216,217
+Point logic:84,84
+Point after rot:84,84
+Point real:215,216
+Point logic:85,85
+Point after rot:85,85
+Point real:214,215
+Point logic:86,86
+Point after rot:86,86
+Point real:213,214
+Point logic:87,87
+Point after rot:87,87
+Point real:212,213
+Point logic:88,88
+Point after rot:88,88
+Point real:211,212
+Point logic:89,89
+Point after rot:89,89
+Point real:210,211
+Point logic:90,90
+Point after rot:90,90
+Point real:209,210
+Point logic:91,91
+Point after rot:91,91
+Point real:208,209
+Point logic:92,92
+Point after rot:92,92
+Point real:207,208
+Point logic:93,93
+Point after rot:93,93
+Point real:206,207
+Point logic:94,94
+Point after rot:94,94
+Point real:205,206
+Point logic:95,95
+Point after rot:95,95
+Point real:204,205
+Point logic:96,96
+Point after rot:96,96
+Point real:203,204
+Point logic:97,97
+Point after rot:97,97
+Point real:202,203
+Point logic:98,98
+Point after rot:98,98
+Point real:201,202
+Point logic:99,99
+Point after rot:99,99
+Point real:200,201
+CONST_ID 3.14159
+The value is:3.14159
+CONST_ID 0
+The value is:0
+CONST_ID 100
+The value is:100
+CONST_ID 1
+The value is:1
+T 000D26C0
+The value is:99
+T 000D26C0
+The value is:99
+Point logic:0,0
+Point after rot:0,0
+Point real:300,300
+Point logic:1,1
+Point after rot:1,1
+Point real:299,301
+Point logic:2,2
+Point after rot:2,2
+Point real:298,302
+Point logic:3,3
+Point after rot:3,3
+Point real:297,303
+Point logic:4,4
+Point after rot:4,4
+Point real:296,304
+Point logic:5,5
+Point after rot:5,5
+Point real:295,305
+Point logic:6,6
+Point after rot:6,6
+Point real:294,306
+Point logic:7,7
+Point after rot:7,7
+Point real:293,307
+Point logic:8,8
+Point after rot:8,8
+Point real:292,308
+Point logic:9,9
+Point after rot:9,9
+Point real:291,309
+Point logic:10,10
+Point after rot:10,10
+Point real:290,310
+Point logic:11,11
+Point after rot:11,11
+Point real:289,311
+Point logic:12,12
+Point after rot:12,12
+Point real:288,312
+Point logic:13,13
+Point after rot:13,13
+Point real:287,313
+Point logic:14,14
+Point after rot:14,14
+Point real:286,314
+Point logic:15,15
+Point after rot:15,15
+Point real:285,315
+Point logic:16,16
+Point after rot:16,16
+Point real:284,316
+Point logic:17,17
+Point after rot:17,17
+Point real:283,317
+Point logic:18,18
+Point after rot:18,18
+Point real:282,318
+Point logic:19,19
+Point after rot:19,19
+Point real:281,319
+Point logic:20,20
+Point after rot:20,20
+Point real:280,320
+Point logic:21,21
+Point after rot:21,21
+Point real:279,321
+Point logic:22,22
+Point after rot:22,22
+Point real:278,322
+Point logic:23,23
+Point after rot:23,23
+Point real:277,323
+Point logic:24,24
+Point after rot:24,24
+Point real:276,324
+Point logic:25,25
+Point after rot:25,25
+Point real:275,325
+Point logic:26,26
+Point after rot:26,26
+Point real:274,326
+Point logic:27,27
+Point after rot:27,27
+Point real:273,327
+Point logic:28,28
+Point after rot:28,28
+Point real:272,328
+Point logic:29,29
+Point after rot:29,29
+Point real:271,329
+Point logic:30,30
+Point after rot:30,30
+Point real:270,330
+Point logic:31,31
+Point after rot:31,31
+Point real:269,331
+Point logic:32,32
+Point after rot:32,32
+Point real:268,332
+Point logic:33,33
+Point after rot:33,33
+Point real:267,333
+Point logic:34,34
+Point after rot:34,34
+Point real:266,334
+Point logic:35,35
+Point after rot:35,35
+Point real:265,335
+Point logic:36,36
+Point after rot:36,36
+Point real:264,336
+Point logic:37,37
+Point after rot:37,37
+Point real:263,337
+Point logic:38,38
+Point after rot:38,38
+Point real:262,338
+Point logic:39,39
+Point after rot:39,39
+Point real:261,339
+Point logic:40,40
+Point after rot:40,40
+Point real:260,340
+Point logic:41,41
+Point after rot:41,41
+Point real:259,341
+Point logic:42,42
+Point after rot:42,42
+Point real:258,342
+Point logic:43,43
+Point after rot:43,43
+Point real:257,343
+Point logic:44,44
+Point after rot:44,44
+Point real:256,344
+Point logic:45,45
+Point after rot:45,45
+Point real:255,345
+Point logic:46,46
+Point after rot:46,46
+Point real:254,346
+Point logic:47,47
+Point after rot:47,47
+Point real:253,347
+Point logic:48,48
+Point after rot:48,48
+Point real:252,348
+Point logic:49,49
+Point after rot:49,49
+Point real:251,349
+Point logic:50,50
+Point after rot:50,50
+Point real:250,350
+Point logic:51,51
+Point after rot:51,51
+Point real:249,351
+Point logic:52,52
+Point after rot:52,52
+Point real:248,352
+Point logic:53,53
+Point after rot:53,53
+Point real:247,353
+Point logic:54,54
+Point after rot:54,54
+Point real:246,354
+Point logic:55,55
+Point after rot:55,55
+Point real:245,355
+Point logic:56,56
+Point after rot:56,56
+Point real:244,356
+Point logic:57,57
+Point after rot:57,57
+Point real:243,357
+Point logic:58,58
+Point after rot:58,58
+Point real:242,358
+Point logic:59,59
+Point after rot:59,59
+Point real:241,359
+Point logic:60,60
+Point after rot:60,60
+Point real:240,360
+Point logic:61,61
+Point after rot:61,61
+Point real:239,361
+Point logic:62,62
+Point after rot:62,62
+Point real:238,362
+Point logic:63,63
+Point after rot:63,63
+Point real:237,363
+Point logic:64,64
+Point after rot:64,64
+Point real:236,364
+Point logic:65,65
+Point after rot:65,65
+Point real:235,365
+Point logic:66,66
+Point after rot:66,66
+Point real:234,366
+Point logic:67,67
+Point after rot:67,67
+Point real:233,367
+Point logic:68,68
+Point after rot:68,68
+Point real:232,368
+Point logic:69,69
+Point after rot:69,69
+Point real:231,369
+Point logic:70,70
+Point after rot:70,70
+Point real:230,370
+Point logic:71,71
+Point after rot:71,71
+Point real:229,371
+Point logic:72,72
+Point after rot:72,72
+Point real:228,372
+Point logic:73,73
+Point after rot:73,73
+Point real:227,373
+Point logic:74,74
+Point after rot:74,74
+Point real:226,374
+Point logic:75,75
+Point after rot:75,75
+Point real:225,375
+Point logic:76,76
+Point after rot:76,76
+Point real:224,376
+Point logic:77,77
+Point after rot:77,77
+Point real:223,377
+Point logic:78,78
+Point after rot:78,78
+Point real:222,378
+Point logic:79,79
+Point after rot:79,79
+Point real:221,379
+Point logic:80,80
+Point after rot:80,80
+Point real:220,380
+Point logic:81,81
+Point after rot:81,81
+Point real:219,381
+Point logic:82,82
+Point after rot:82,82
+Point real:218,382
+Point logic:83,83
+Point after rot:83,83
+Point real:217,383
+Point logic:84,84
+Point after rot:84,84
+Point real:216,384
+Point logic:85,85
+Point after rot:85,85
+Point real:215,385
+Point logic:86,86
+Point after rot:86,86
+Point real:214,386
+Point logic:87,87
+Point after rot:87,87
+Point real:213,387
+Point logic:88,88
+Point after rot:88,88
+Point real:212,388
+Point logic:89,89
+Point after rot:89,89
+Point real:211,389
+Point logic:90,90
+Point after rot:90,90
+Point real:210,390
+Point logic:91,91
+Point after rot:91,91
+Point real:209,391
+Point logic:92,92
+Point after rot:92,92
+Point real:208,392
+Point logic:93,93
+Point after rot:93,93
+Point real:207,393
+Point logic:94,94
+Point after rot:94,94
+Point real:206,394
+Point logic:95,95
+Point after rot:95,95
+Point real:205,395
+Point logic:96,96
+Point after rot:96,96
+Point real:204,396
+Point logic:97,97
+Point after rot:97,97
+Point real:203,397
+Point logic:98,98
+Point after rot:98,98
+Point real:202,398
+Point logic:99,99
+Point after rot:99,99
+Point real:201,399
+/
+  *
+    CONST_ID 3.14159
+    CONST_ID 3
+  CONST_ID 2
+The value is:4.71239
+CONST_ID 0
+The value is:0
+CONST_ID 100
+The value is:100
+CONST_ID 1
+The value is:1
+T 000D26C0
+The value is:99
+T 000D26C0
+The value is:99
+Point logic:0,0
+Point after rot:0,0
+Point real:300,300
+Point logic:1,1
+Point after rot:1,1
+Point real:301,300
+Point logic:2,2
+Point after rot:2,2
+Point real:302,301
+Point logic:3,3
+Point after rot:3,3
+Point real:303,302
+Point logic:4,4
+Point after rot:4,4
+Point real:304,303
+Point logic:5,5
+Point after rot:5,5
+Point real:305,304
+Point logic:6,6
+Point after rot:6,6
+Point real:306,305
+Point logic:7,7
+Point after rot:7,7
+Point real:307,306
+Point logic:8,8
+Point after rot:8,8
+Point real:308,307
+Point logic:9,9
+Point after rot:9,9
+Point real:309,308
+Point logic:10,10
+Point after rot:10,10
+Point real:310,309
+Point logic:11,11
+Point after rot:11,11
+Point real:311,310
+Point logic:12,12
+Point after rot:12,12
+Point real:312,311
+Point logic:13,13
+Point after rot:13,13
+Point real:313,312
+Point logic:14,14
+Point after rot:14,14
+Point real:314,313
+Point logic:15,15
+Point after rot:15,15
+Point real:315,314
+Point logic:16,16
+Point after rot:16,16
+Point real:316,315
+Point logic:17,17
+Point after rot:17,17
+Point real:317,316
+Point logic:18,18
+Point after rot:18,18
+Point real:318,317
+Point logic:19,19
+Point after rot:19,19
+Point real:319,318
+Point logic:20,20
+Point after rot:20,20
+Point real:320,319
+Point logic:21,21
+Point after rot:21,21
+Point real:321,320
+Point logic:22,22
+Point after rot:22,22
+Point real:322,321
+Point logic:23,23
+Point after rot:23,23
+Point real:323,322
+Point logic:24,24
+Point after rot:24,24
+Point real:324,323
+Point logic:25,25
+Point after rot:25,25
+Point real:325,324
+Point logic:26,26
+Point after rot:26,26
+Point real:326,325
+Point logic:27,27
+Point after rot:27,27
+Point real:327,326
+Point logic:28,28
+Point after rot:28,28
+Point real:328,327
+Point logic:29,29
+Point after rot:29,29
+Point real:329,328
+Point logic:30,30
+Point after rot:30,30
+Point real:330,329
+Point logic:31,31
+Point after rot:31,31
+Point real:331,330
+Point logic:32,32
+Point after rot:32,32
+Point real:332,331
+Point logic:33,33
+Point after rot:33,33
+Point real:333,332
+Point logic:34,34
+Point after rot:34,34
+Point real:334,333
+Point logic:35,35
+Point after rot:35,35
+Point real:335,334
+Point logic:36,36
+Point after rot:36,36
+Point real:336,335
+Point logic:37,37
+Point after rot:37,37
+Point real:337,336
+Point logic:38,38
+Point after rot:38,38
+Point real:338,337
+Point logic:39,39
+Point after rot:39,39
+Point real:339,338
+Point logic:40,40
+Point after rot:40,40
+Point real:340,339
+Point logic:41,41
+Point after rot:41,41
+Point real:341,340
+Point logic:42,42
+Point after rot:42,42
+Point real:342,341
+Point logic:43,43
+Point after rot:43,43
+Point real:343,342
+Point logic:44,44
+Point after rot:44,44
+Point real:344,343
+Point logic:45,45
+Point after rot:45,45
+Point real:345,344
+Point logic:46,46
+Point after rot:46,46
+Point real:346,345
+Point logic:47,47
+Point after rot:47,47
+Point real:347,346
+Point logic:48,48
+Point after rot:48,48
+Point real:348,347
+Point logic:49,49
+Point after rot:49,49
+Point real:349,348
+Point logic:50,50
+Point after rot:50,50
+Point real:350,349
+Point logic:51,51
+Point after rot:51,51
+Point real:351,350
+Point logic:52,52
+Point after rot:52,52
+Point real:352,351
+Point logic:53,53
+Point after rot:53,53
+Point real:353,352
+Point logic:54,54
+Point after rot:54,54
+Point real:354,353
+Point logic:55,55
+Point after rot:55,55
+Point real:355,354
+Point logic:56,56
+Point after rot:56,56
+Point real:356,355
+Point logic:57,57
+Point after rot:57,57
+Point real:357,356
+Point logic:58,58
+Point after rot:58,58
+Point real:358,357
+Point logic:59,59
+Point after rot:59,59
+Point real:359,358
+Point logic:60,60
+Point after rot:60,60
+Point real:360,359
+Point logic:61,61
+Point after rot:61,61
+Point real:361,360
+Point logic:62,62
+Point after rot:62,62
+Point real:362,361
+Point logic:63,63
+Point after rot:63,63
+Point real:363,362
+Point logic:64,64
+Point after rot:64,64
+Point real:364,363
+Point logic:65,65
+Point after rot:65,65
+Point real:365,364
+Point logic:66,66
+Point after rot:66,66
+Point real:366,365
+Point logic:67,67
+Point after rot:67,67
+Point real:367,366
+Point logic:68,68
+Point after rot:68,68
+Point real:368,367
+Point logic:69,69
+Point after rot:69,69
+Point real:369,368
+Point logic:70,70
+Point after rot:70,70
+Point real:370,369
+Point logic:71,71
+Point after rot:71,71
+Point real:371,370
+Point logic:72,72
+Point after rot:72,72
+Point real:372,371
+Point logic:73,73
+Point after rot:73,73
+Point real:373,372
+Point logic:74,74
+Point after rot:74,74
+Point real:374,373
+Point logic:75,75
+Point after rot:75,75
+Point real:375,374
+Point logic:76,76
+Point after rot:76,76
+Point real:376,375
+Point logic:77,77
+Point after rot:77,77
+Point real:377,376
+Point logic:78,78
+Point after rot:78,78
+Point real:378,377
+Point logic:79,79
+Point after rot:79,79
+Point real:379,378
+Point logic:80,80
+Point after rot:80,80
+Point real:380,379
+Point logic:81,81
+Point after rot:81,81
+Point real:381,380
+Point logic:82,82
+Point after rot:82,82
+Point real:382,381
+Point logic:83,83
+Point after rot:83,83
+Point real:383,382
+Point logic:84,84
+Point after rot:84,84
+Point real:384,383
+Point logic:85,85
+Point after rot:85,85
+Point real:385,384
+Point logic:86,86
+Point after rot:86,86
+Point real:386,385
+Point logic:87,87
+Point after rot:87,87
+Point real:387,386
+Point logic:88,88
+Point after rot:88,88
+Point real:388,387
+Point logic:89,89
+Point after rot:89,89
+Point real:389,388
+Point logic:90,90
+Point after rot:90,90
+Point real:390,389
+Point logic:91,91
+Point after rot:91,91
+Point real:391,390
+Point logic:92,92
+Point after rot:92,92
+Point real:392,391
+Point logic:93,93
+Point after rot:93,93
+Point real:393,392
+Point logic:94,94
+Point after rot:94,94
+Point real:394,393
+Point logic:95,95
+Point after rot:95,95
+Point real:395,394
+Point logic:96,96
+Point after rot:96,96
+Point real:396,395
+Point logic:97,97
+Point after rot:97,97
+Point real:397,396
+Point logic:98,98
+Point after rot:98,98
+Point real:398,397
+Point logic:99,99
+Point after rot:99,99
+Point real:399,398
+CONST_ID 500
+The value is:500
+CONST_ID 300
+The value is:300
+CONST_ID 100
+The value is:100
+CONST_ID 100
+The value is:100
+CONST_ID 0
+The value is:0
+*
+  CONST_ID 2
+  CONST_ID 3.14159
+The value is:6.28319
+CONST_ID 0.1
+The value is:0.1
+T 000D26C0
+The value is:99
+FUNC 0009799C
+  T 000D26C0
+The value is:0.0398209
+T 000D26C0
+The value is:99
+FUNC 0009754B
+  T 000D26C0
+The value is:-0.999207
+Point logic:1,0
+Point after rot:100,0
+Point real:500,399
+Point logic:0.995004,0.0998334
+Point after rot:99.5004,9.98334
+Point real:509,399
+Point logic:0.980067,0.198669
+Point after rot:98.0067,19.8669
+Point real:519,398
+Point logic:0.955336,0.29552
+Point after rot:95.5336,29.552
+Point real:529,395
+Point logic:0.921061,0.389418
+Point after rot:92.1061,38.9418
+Point real:538,392
+Point logic:0.877583,0.479426
+Point after rot:87.7583,47.9426
+Point real:547,387
+Point logic:0.825336,0.564642
+Point after rot:82.5336,56.4642
+Point real:556,382
+Point logic:0.764842,0.644218
+Point after rot:76.4842,64.4218
+Point real:564,376
+Point logic:0.696707,0.717356
+Point after rot:69.6707,71.7356
+Point real:571,369
+Point logic:0.62161,0.783327
+Point after rot:62.161,78.3327
+Point real:578,362
+Point logic:0.540302,0.841471
+Point after rot:54.0302,84.1471
+Point real:584,354
+Point logic:0.453596,0.891207
+Point after rot:45.3596,89.1207
+Point real:589,345
+Point logic:0.362358,0.932039
+Point after rot:36.2358,93.2039
+Point real:593,336
+Point logic:0.267499,0.963558
+Point after rot:26.7499,96.3558
+Point real:596,326
+Point logic:0.169967,0.98545
+Point after rot:16.9967,98.545
+Point real:598,316
+Point logic:0.0707372,0.997495
+Point after rot:7.07372,99.7495
+Point real:599,307
+Point logic:-0.0291995,0.999574
+Point after rot:-2.91995,99.9574
+Point real:599,297
+Point logic:-0.128844,0.991665
+Point after rot:-12.8844,99.1665
+Point real:599,287
+Point logic:-0.227202,0.973848
+Point after rot:-22.7202,97.3848
+Point real:597,277
+Point logic:-0.32329,0.9463
+Point after rot:-32.329,94.63
+Point real:594,267
+Point logic:-0.416147,0.909297
+Point after rot:-41.6147,90.9297
+Point real:590,258
+Point logic:-0.504846,0.863209
+Point after rot:-50.4846,86.3209
+Point real:586,249
+Point logic:-0.588501,0.808496
+Point after rot:-58.8501,80.8496
+Point real:580,241
+Point logic:-0.666276,0.745705
+Point after rot:-66.6276,74.5705
+Point real:574,233
+Point logic:-0.737394,0.675463
+Point after rot:-73.7394,67.5463
+Point real:567,226
+Point logic:-0.801144,0.598472
+Point after rot:-80.1144,59.8472
+Point real:559,219
+Point logic:-0.856889,0.515501
+Point after rot:-85.6889,51.5501
+Point real:551,214
+Point logic:-0.904072,0.42738
+Point after rot:-90.4072,42.738
+Point real:542,209
+Point logic:-0.942222,0.334988
+Point after rot:-94.2222,33.4988
+Point real:533,205
+Point logic:-0.970958,0.239249
+Point after rot:-97.0958,23.9249
+Point real:523,202
+Point logic:-0.989992,0.14112
+Point after rot:-98.9992,14.112
+Point real:514,201
+Point logic:-0.999135,0.0415807
+Point after rot:-99.9135,4.15807
+Point real:504,200
+Point logic:-0.998295,-0.0583741
+Point after rot:-99.8295,-5.83741
+Point real:494,200
+Point logic:-0.98748,-0.157746
+Point after rot:-98.748,-15.7746
+Point real:484,201
+Point logic:-0.966798,-0.255541
+Point after rot:-96.6798,-25.5541
+Point real:474,203
+Point logic:-0.936457,-0.350783
+Point after rot:-93.6457,-35.0783
+Point real:464,206
+Point logic:-0.896758,-0.44252
+Point after rot:-89.6758,-44.252
+Point real:455,210
+Point logic:-0.8481,-0.529836
+Point after rot:-84.81,-52.9836
+Point real:447,215
+Point logic:-0.790968,-0.611858
+Point after rot:-79.0968,-61.1858
+Point real:438,220
+Point logic:-0.725932,-0.687766
+Point after rot:-72.5932,-68.7766
+Point real:431,227
+Point logic:-0.653644,-0.756802
+Point after rot:-65.3644,-75.6802
+Point real:424,234
+Point logic:-0.574824,-0.818277
+Point after rot:-57.4824,-81.8277
+Point real:418,242
+Point logic:-0.490261,-0.871576
+Point after rot:-49.0261,-87.1576
+Point real:412,250
+Point logic:-0.400799,-0.916166
+Point after rot:-40.0799,-91.6166
+Point real:408,259
+Point logic:-0.307333,-0.951602
+Point after rot:-30.7333,-95.1602
+Point real:404,269
+Point logic:-0.210796,-0.97753
+Point after rot:-21.0796,-97.753
+Point real:402,278
+Point logic:-0.112153,-0.993691
+Point after rot:-11.2153,-99.3691
+Point real:400,288
+Point logic:-0.0123887,-0.999923
+Point after rot:-1.23887,-99.9923
+Point real:400,298
+Point logic:0.087499,-0.996165
+Point after rot:8.7499,-99.6165
+Point real:400,308
+Point logic:0.186512,-0.982453
+Point after rot:18.6512,-98.2453
+Point real:401,318
+Point logic:0.283662,-0.958924
+Point after rot:28.3662,-95.8924
+Point real:404,328
+Point logic:0.377978,-0.925815
+Point after rot:37.7978,-92.5815
+Point real:407,337
+Point logic:0.468517,-0.883455
+Point after rot:46.8517,-88.3455
+Point real:411,346
+Point logic:0.554374,-0.832267
+Point after rot:55.4374,-83.2267
+Point real:416,355
+Point logic:0.634693,-0.772764
+Point after rot:63.4693,-77.2764
+Point real:422,363
+Point logic:0.70867,-0.70554
+Point after rot:70.867,-70.554
+Point real:429,370
+Point logic:0.775566,-0.631267
+Point after rot:77.5566,-63.1267
+Point real:436,377
+Point logic:0.834713,-0.550686
+Point after rot:83.4713,-55.0686
+Point real:444,383
+Point logic:0.88552,-0.464602
+Point after rot:88.552,-46.4602
+Point real:453,388
+Point logic:0.927478,-0.373877
+Point after rot:92.7478,-37.3877
+Point real:462,392
+Point logic:0.96017,-0.279415
+Point after rot:96.017,-27.9415
+Point real:472,396
+Point logic:0.983268,-0.182163
+Point after rot:98.3268,-18.2163
+Point real:481,398
+Point logic:0.996542,-0.0830894
+Point after rot:99.6542,-8.30894
+Point real:491,399
